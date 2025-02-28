@@ -10,6 +10,7 @@
 
 ```
 nlp-25/
+├── figs                       # 图片
 ├── lecture-01-exercise.ipynb  # 第一讲练习代码
 ├── ...                        # 其他讲座和练习代码
 └── README.md                  # 本说明文档
