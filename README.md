@@ -18,7 +18,8 @@ nlp-25/
 
 ## 环境要求
 Python 3.x
-安装必要的 Python 库，库的安装方式会在.ipynb中提供。
+
+必要的 Python 库的安装方式会在.ipynb中提供。
 
 ## 使用方法
 
