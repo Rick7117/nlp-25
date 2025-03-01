@@ -12,6 +12,8 @@
 nlp-25/
 ├── figs                       # 图片
 ├── lecture-01-exercise.ipynb  # 第一讲练习代码
+├── lecture-02-exercise-dataset-preprocess.ipynb  # 第二讲数据预处理代码
+├── lecture-02-exercise-solution.ipynb  # 第二讲练习代码
 ├── ...                        # 其他讲座和练习代码
 └── README.md                  # 本说明文档
 ```
