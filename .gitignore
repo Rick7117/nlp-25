@@ -2,3 +2,6 @@ lecture-05/data/cifar-10-python.tar.gz
 lecture-07/WordLM-RNN-Transformer/model.pt
 lecture-05/Text-Classification-Pytorch-CNN/.data
 lecture-05/Text-Classification-Pytorch-CNN/.vector_cache
+lecture-06/.data
+lecture-06/.vector_cache
+lecture-06/tut1-model.pt
