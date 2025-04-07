@@ -9,3 +9,11 @@ lecture-05/.data
 lecture-05/.vector_cache
 lecture-05/model.ckpt
 lecture-05/params.ckpt
+lecture-02/convokit-reddit-coarse-discourse-corpus-3-gram.arpa
+lecture-02/convokit-reddit-coarse-discourse-corpus-4-gram.arpa
+lecture-02/convokit-reddit-coarse-discourse-corpus-5-gram.arpa
+lecture-02/convokit-reddit-coarse-discourse-corpus-test.txt
+lecture-02/convokit-reddit-coarse-discourse-corpus-train-2-gram.arpa
+lecture-02/convokit-reddit-coarse-discourse-corpus-train.txt
+lecture-02/convokit-reddit-coarse-discourse-corpus-valid.txt
+lecture-02/convokit-reddit-coarse-discourse-corpus-vocab.json
