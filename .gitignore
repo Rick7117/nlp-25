@@ -5,3 +5,7 @@ lecture-05/Text-Classification-Pytorch-CNN/.vector_cache
 lecture-06/.data
 lecture-06/.vector_cache
 lecture-06/tut1-model.pt
+lecture-05/.data
+lecture-05/.vector_cache
+lecture-05/model.ckpt
+lecture-05/params.ckpt
